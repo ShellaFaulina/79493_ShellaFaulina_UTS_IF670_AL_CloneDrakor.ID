@@ -1,1 +1,4 @@
-# 79493_ShellaFaulina_UTS_IF670_AL_CloneDrakor.ID
+PROJECT UTS MOBILE PLATFORM (DRAKOR.ID)
+Nama  : Shella Faulina
+Nim   : 00000079493
+kelas  :  IF670 AL
