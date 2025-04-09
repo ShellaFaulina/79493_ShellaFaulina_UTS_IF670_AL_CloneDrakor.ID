@@ -1,0 +1,251 @@
+[
+  {
+    "id": "1",
+    "title": "The Art of Negotiation",
+    "genre": "Business",
+    "episode": 12,
+    "rating": 8.5,
+    "imageName": "theArtOfNegotiation",
+    "releaseDate": "March 8, 2025",
+    "director": "An Pan-Seok",
+    "status": "Ongoing",
+    "sinopsis": "Kisah tentang seorang ahli M&A (Lee Je-Hoon), yang dikenal sebagai negosiator legendaris, dan timnya termasuk Pengacara Oh Soon-Young (Kim Dae-Myung) dan Choi Jin-Soo (Cha Kang-Yoon). Ahli M&A ini mengkhususkan diri dalam transaksi perusahaan besar.",
+    "cast": [
+      "Lee Je-Hoon - Yoon Joo-No",
+      "Kim Dae-Myung - Oh Soon-Young",
+      "Sung Dong-Il - Song Jae-Sik",
+      "Jang Hyun-Sung - Ha Tae-Soo",
+      "Oh Man-Seok - Lee Dong-Joon",
+      "Ahn Hyun-Ho - Kwak Min-Jeong",
+      "Cha Kang-Yoon - Choi Jin-Soo"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Undercover High School",
+    "genre": "Action, Comedy",
+    "episode": 16,
+    "rating": 8.3,
+    "imageName": "undercoverHighSchool",
+    "releaseDate": "April 12, 2025",
+    "director": "Kim Sung-Hoon",
+    "status": "Ongoing",
+    "sinopsis": "Seorang agen rahasia senior menyamar sebagai siswa SMA untuk menyelidiki sindikat narkoba yang menyusup ke sekolah elit. Dalam menjalankan misinya, ia harus menyeimbangkan kehidupan remaja yang penuh drama dengan tugas-tugas intelijen yang berbahaya.",
+    "cast": [
+      "Jang Ki-Yong - Han Joon-Ho",
+      "Kim Se-Jeong - Yoo Ha-Na",
+      "Choi Woo-Shik - Park Do-Won",
+      "Lee Da-Hee - Bae Yoo-Ri"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "True Beauty",
+    "genre": "Romance, Comedy",
+    "episode": 16,
+    "rating": 8.2,
+    "imageName": "trueBeauty",
+    "releaseDate": "December 9, 2020",
+    "director": "Kim Sang-Hyub",
+    "status": "Completed",
+    "sinopsis": "Lim Ju-Gyeong adalah seorang gadis SMA yang menguasai makeup untuk menyembunyikan wajah aslinya. Ia bertemu dengan dua pria yang mulai menyukai dirinya—satu tahu rahasianya, satu lagi tidak. Drama ini mengangkat tema kecantikan sejati dan harga diri.",
+    "cast": [
+      "Moon Ga-Young - Lim Ju-Gyeong",
+      "Cha Eun-Woo - Lee Su-Ho",
+      "Hwang In-Yeop - Han Seo-Jun",
+      "Park Yoo-Na - Kang Su-Jin"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "The Trauma Code: Heroes on Call",
+    "genre": "Medical, Drama",
+    "episode": 12,
+    "rating": 8.6,
+    "imageName": "traumaCode",
+    "releaseDate": "February 14, 2025",
+    "director": "Lee Myung-Woo",
+    "status": "Ongoing",
+    "sinopsis": "Mengikuti kehidupan para dokter dan paramedis di unit trauma darurat yang harus bertindak cepat menyelamatkan nyawa pasien dalam situasi paling kritis. Drama ini penuh dengan ketegangan, kemanusiaan, dan pengorbanan.",
+    "cast": [
+      "Ji Sung - Dr. Kang Hyun",
+      "Jeon Mi-Do - Dr. Seo Yoon",
+      "Lee Do-Hyun - Kim Jae-Min",
+      "Kang Mal-Geum - Han Ji-Won"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Through the Darkness",
+    "genre": "Crime, Thriller",
+    "episode": 12,
+    "rating": 8.7,
+    "imageName": "throughTheDarkness",
+    "releaseDate": "January 14, 2022",
+    "director": "Park Bo-Ram",
+    "status": "Completed",
+    "sinopsis": "Berdasarkan kisah nyata, seorang profiler kriminal pertama Korea Selatan harus menyelami pikiran para pembunuh berantai untuk membantu kepolisian menangkap mereka. Drama ini mengeksplorasi sisi gelap psikologi manusia.",
+    "cast": [
+      "Kim Nam-Gil - Song Ha-Young",
+      "Jin Seon-Kyu - Guk Young-Soo",
+      "Kim So-Jin - Yoon Tae-Goo"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "The Gifted",
+    "genre": "Sci-Fi",
+    "episode": 13,
+    "rating": 8.4,
+    "imageName": "theGifted",
+    "releaseDate": "August 5, 2018",
+    "director": "O Patha Thongpan",
+    "status": "Completed",
+    "sinopsis": "Seorang siswa biasa tiba-tiba diangkat menjadi bagian dari program 'Gifted', sebuah kelas rahasia untuk siswa dengan kekuatan super. Namun, di balik sistem sekolah ini tersembunyi eksperimen gelap dan rahasia mengerikan.",
+    "cast": [
+      "Nanon Korapat Kirdpan - Pang",
+      "Chimon Wachirawit Ruangwiwat - Wave",
+      "Fiat Pattadon Janngeon - Ohm",
+      "Sing Harit Cheewagaroon - Punn"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Ultimate Note",
+    "genre": "Adventure",
+    "episode": 37,
+    "rating": 8.1,
+    "imageName": "ultimateNote",
+    "releaseDate": "December 10, 2020",
+    "director": "Zhang Boyu",
+    "status": "Completed",
+    "sinopsis": "Wu Xie memulai petualangan baru setelah menemukan catatan rahasia peninggalan kakeknya. Bersama rekan-rekannya, ia menjelajahi makam-makam misterius dan berhadapan dengan organisasi rahasia yang mengintai dari balik bayang-bayang. Dalam perjalanan ini, terungkap pula masa lalu yang kelam dan rahasia keluarga yang telah lama terkubur.",
+    "cast": [
+      "Joseph Zeng - Wu Xie",
+      "Xiao Yuliang - Zhang Qiling",
+      "Hankiz Omar - A Ning"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Unforgettable Love",
+    "genre": "Romance",
+    "episode": 24,
+    "rating": 8.3,
+    "imageName": "unforgettableLove",
+    "releaseDate": "July 10, 2021",
+    "director": "Li Yulei",
+    "status": "Completed",
+    "sinopsis": "Kisah cinta antara seorang CEO dingin dan perfeksionis dengan seorang psikolog anak yang hangat dan penuh perhatian. Dipersatukan oleh kehadiran anak kecil yang menggemaskan, mereka perlahan saling membuka hati dan belajar menyembuhkan luka masa lalu masing-masing. Hubungan mereka diuji oleh perbedaan karakter dan masa lalu yang tak terduga.",
+    "cast": [
+      "Wei Zheming - He Qiaoyan",
+      "Hu Yixuan - Qin Yiyue",
+      "Sun Sicheng - Xiao Bao"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "The Worst of Evil",
+    "genre": "Crime",
+    "episode": 12,
+    "rating": 8.7,
+    "imageName": "theWorstOfEvil",
+    "releaseDate": "September 27, 2023",
+    "director": "Han Dong-wook",
+    "status": "Ongoing",
+    "sinopsis": "Seorang detektif muda menyamar untuk menyusup ke organisasi kriminal lintas negara yang mengendalikan peredaran narkoba antara Korea dan Jepang. Dalam menjalankan tugasnya, ia harus menghadapi bahaya mematikan, konflik emosional yang kompleks, serta dilema antara tugas dan hati nurani. Perlahan, ia pun terjebak dalam jaringan gelap yang semakin dalam.",
+    "cast": [
+      "Ji Chang-wook - Park Jun-mo",
+      "Wi Ha-joon - Jung Gi-cheul",
+      "Im Se-mi - Yoo Eui-jung"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Running Man",
+    "genre": "Variety",
+    "episode": 700,
+    "rating": 9.1,
+    "imageName": "runningMan",
+    "releaseDate": "July 11, 2010",
+    "director": "Choi Bo-pil",
+    "status": "Ongoing",
+    "sinopsis": "Acara variety legendaris Korea Selatan yang menghadirkan misi menegangkan, permainan unik, dan interaksi lucu antara para anggota tetap dan bintang tamu. Selama lebih dari satu dekade, 'Running Man' telah menghibur jutaan penonton dengan tawa, persaingan, dan persahabatan yang menginspirasi. Tidak hanya penuh aksi, tapi juga penuh kehangatan.",
+    "cast": [
+      "Yoo Jae-suk",
+      "Kim Jong-kook",
+      "Haha",
+      "Song Ji-hyo",
+      "Yang Se-chan",
+      "Jeon So-min"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "The Fiery Priest",
+    "genre": "Action",
+    "episode": 40,
+    "rating": 8.5,
+    "imageName": "theFieryPriest",
+    "releaseDate": "February 15, 2019",
+    "director": "Lee Myung-woo",
+    "status": "Completed",
+    "sinopsis": "Seorang pastor Katolik dengan temperamen panas dan masa lalu kelam bekerja sama dengan detektif ceroboh dan jaksa ambisius untuk mengungkap kasus pembunuhan sahabatnya. Di balik penyelidikan ini, tersingkap jaringan korupsi yang melibatkan pejabat tinggi. Drama ini memadukan aksi seru, humor gelap, dan pesan moral yang mendalam.",
+    "cast": [
+      "Kim Nam-gil - Kim Hae-il",
+      "Lee Hanee - Park Kyung-sun",
+      "Kim Sung-kyun - Goo Dae-young"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "F4 Thailand: Boys Over Flowers",
+    "genre": "Romance",
+    "episode": 16,
+    "rating": 8.2,
+    "imageName": "f4Thailand",
+    "releaseDate": "December 18, 2021",
+    "director": "Patha Thongpan",
+    "status": "Completed",
+    "sinopsis": "Remake versi Thailand dari drama legendaris tentang seorang gadis biasa yang bersekolah di SMA elit dan menghadapi kelompok F4—empat siswa tampan dan kaya raya. Meskipun awalnya terlibat konflik, sang gadis perlahan menumbuhkan ikatan rumit dengan salah satu dari mereka, memicu drama cinta, persahabatan, dan perjuangan melawan ketidakadilan.",
+    "cast": [
+      "Tontawan Tantivejakul - Gorya",
+      "Vachirawit Chivaaree - Thyme",
+      "Metawin Opas-iamkajorn - Kavin",
+      "Jirawat Sutivanichsak - Ren"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Bad and Crazy",
+    "genre": "Thriller",
+    "episode": 12,
+    "rating": 8.0,
+    "imageName": "badAndCrazy",
+    "releaseDate": "December 17, 2021",
+    "director": "Yoo Sun-dong",
+    "status": "Completed",
+    "sinopsis": "Ryu Soo-yeol, seorang polisi karier yang oportunis, tiba-tiba dihantui oleh sosok misterius bernama K—pribadi lain dalam dirinya yang mencintai keadilan dan kekerasan. Pertarungan batin antara dua sisi kepribadian ini membawa mereka ke dalam kasus penuh ketegangan dan moralitas, memaksa sang tokoh utama menghadapi dirinya sendiri.",
+    "cast": [
+      "Lee Dong-wook - Ryu Soo-yeol",
+      "Wi Ha-joon - K",
+      "Han Ji-eun - Lee Hui-gyeom"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Faceless Love",
+    "genre": "Drama",
+    "episode": 20,
+    "rating": 7.9,
+    "imageName": "facelessLove",
+    "releaseDate": "November 22, 2021",
+    "director": "Yoon Jae-won",
+    "status": "Completed",
+    "sinopsis": "Cha Min-woo adalah pewaris kaya yang mengidap agorafobia dan hidup dalam isolasi. Kehidupannya berubah ketika Han Yuri, seorang wanita ceria, menjadi pegawai barunya. Seiring waktu, hubungan mereka berkembang dari keterpaksaan menjadi kedekatan emosional yang mendalam. Drama ini menggambarkan penyembuhan luka batin dan arti cinta sejati.",
+    "cast": [
+      "Lee Min-ki - Cha Min-woo",
+      "Kim Ji-won - Han Yuri"
+    ]
+  }
+]

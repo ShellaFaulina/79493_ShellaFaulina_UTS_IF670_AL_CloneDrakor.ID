@@ -1,0 +1,117 @@
+{
+    "ongoingData": [
+      {
+        "id": "1",
+        "title": "The Art of Negotiation",
+        "episode": 12,
+        "rating": 8.5,
+        "views": "170.366",
+        "day": "SENIN",
+        "genre": "Business",
+        "imageName": "theartofnegotiation.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Undercover High School",
+        "episode": 12,
+        "rating": 9.0,
+        "views": "127.972",
+        "day": "SABTU",
+        "genre": "Comedy",
+        "imageName": "undercover.jpeg"
+      },
+      {
+        "id": "3",
+        "title": "True Beauty",
+        "episode": 16,
+        "rating": 8.0,
+        "views": "586.475",
+        "day": "MINGGU",
+        "genre": "Romance",
+        "imageName": "Truebeauty.jpg"
+      }
+    ],
+    "newReleasesData": [
+      {
+        "id": "1",
+        "title": "The Trauma Code: Heroes on Call",
+        "episode": 8,
+        "rating": 9.5,
+        "views": "597.609",
+        "imageName": "traumacode.jpeg"
+      },
+      {
+        "id": "2",
+        "title": "Through the Darkness",
+        "episode": 12,
+        "rating": 8.3,
+        "views": "375.452",
+        "imageName": "darkness.jpeg"
+      },
+      {
+        "id": "3",
+        "title": "The Gifted",
+        "episode": 13,
+        "rating": 7.9,
+        "views": "169.648",
+        "imageName": "thegifted.jpeg"
+      },
+      {
+        "id": "4",
+        "title": "The Worst of Evil",
+        "episode": 12,
+        "rating": 8.7,
+        "views": "489.763",
+        "imageName": "theworst.jpeg"
+      },
+      {
+        "id": "5",
+        "title": "Running Man",
+        "episode": 700,
+        "rating": 9.2,
+        "views": "1.203.928",
+        "imageName": "running.jpeg"
+      },
+      {
+        "id": "6",
+        "title": "The Fiery Priest",
+        "episode": 20,
+        "rating": 8.3,
+        "views": "295.378",
+        "imageName": "fierypriest.jpeg"
+      },
+      {
+        "id": "7",
+        "title": "F4 Thailand: Boys Over Flowers",
+        "episode": 16,
+        "rating": 8.0,
+        "views": "625.834",
+        "imageName": "F4.jpeg"
+      },
+      {
+        "id": "8",
+        "title": "Bad and Crazy",
+        "episode": 12,
+        "rating": 8.1,
+        "views": "413.057",
+        "imageName": "bad.jpeg"
+      },
+      {
+        "id": "9",
+        "title": "Faceless Love",
+        "episode": 16,
+        "rating": 7.8,
+        "views": "251.793",
+        "imageName": "faceless.jpeg"
+      },
+      {
+        "id": "10",
+        "title": "Unforgettable Love",
+        "episode": 24,
+        "rating": 8.1,
+        "views": "342.218",
+        "imageName": "Unforgettable.jpg"
+      }
+    ]  
+  }
+  
